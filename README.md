@@ -272,28 +272,24 @@ stateDiagram-v2
   </tr>
 </table>
 
----
-
 ### 📊 Real-Time GitHub Intelligence & Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujwalsingamsetti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0284c7&icon_color=ff6d5a&text_color=94a3b8" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwalsingamsetti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0284c7&text_color=94a3b8" height="175" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=ujwalsingamsetti&color=0284c7&style=for-the-badge&label=NEURAL+DECK+VIEWS" alt="Profile Views" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwalsingamsetti&theme=tokyonight&hide_border=true&background=0d1117&ring=0284c7&fire=ff6d5a&currStreakLabel=0284c7" height="175" alt="GitHub Streak" />
+<br/>
+
+<div align="center">
+  <!-- Profile Details Card & Commit Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujwalsingamsetti&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujwalsingamsetti&theme=tokyonight" alt="Top Commit Languages" />
 </div>
 
----
-
-### 🐍 GitHub Contribution Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujwalsingamsetti/ujwalsingamsetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujwalsingamsetti/ujwalsingamsetti/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ujwalsingamsetti/ujwalsingamsetti/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<div align="center" style="margin-top: 12px;">
+  <!-- Live Contribution & Activity Waveform Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujwalsingamsetti&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0284c7&line=ff6d5a&point=10b981" width="100%" alt="Contribution Activity Graph" />
+</div>
 
 ---
 
